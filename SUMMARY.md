@@ -1,14 +1,20 @@
 # Table of contents
 
-- [Welcome to IT-Arkitektur](README.md)
+- [Velkommen til IT-Arkitektur](README.md)
 - [⌨️ How to type characters](typing-characters-keyboard.md) 
-- Portfolio projects
+
+<!--
+
+- Portfolio projekter
   - [01 Dataliteracy](portfolio-projects/01-dataliteracy-database-queries.md)
   - [02 Javascript](portfolio-projects/02-javascript.md)
   - [03 web + data](portfolio-projects/03-web-data.md) 
   - [04 Digital Kultur](portfolio-projects/04-dk.md)
   - [05 Fullstack](portfolio-projects/05-fullstack.md)
   - [06 Common Cultancy](portfolio-projects/06-datavis.md)
+
+-->
+
 - Data literacy
   - [What is data](data-literacy/01-what-is-data.md)
   - [Data types & Scales](data-literacy/02-types-and-scales.md)
@@ -32,9 +38,7 @@
   - [Data definition language & constraints](database-design/01-ddl-constraints.md) 
   - [Cardinality and database diagrams](database-design/02-cardinality-and-EER.md) 
   - [indexing-views-normalisation](data-literacy/08-indexing-normalisation.md) 
-- Digital Kultur
-  - [Getphi & Netværksanalyse](digital-kultur/gephi-netværksanalyse.md) 
-- Web technology
+- Webteknologi
   - [Kend din computer](webteknologi/01-kend-din-computer.md) 
   - [HTML](webteknologi/01-01-html.md)
   - [CSS](webteknologi/02-css.md)
@@ -60,13 +64,9 @@
   - [Bæredygtig webudvikling](webteknologi/19-bæredygtig-webudvikling.md)
   - [Recap](webteknologi/18-recap.md)
   - [Getting data from workbench to javascript](webteknologi/14-1-getting-data-from-workbench-to-javascript.md)
-- Visualisering og Æstetik
-  - [Tableau noter](data-visualisation/03-tableau/tableau.md)
-
-- [Code Examples From Class](https://github.com/behu-kea/ita24-1sem-code)
-
-- [Exam](exam/exam.md)
-- Exam simulator
+- [Kode fra klassen](https://github.com/behu-kea/ita25-1-sem-code)
+- [Eksamen](exam/exam.md)
+- Eksamenssimulatoren
   - [Exam simulator GPT](https://chatgpt.com/g/g-cLrBXP8Zn-ita23-webtechnology-exam-simulator)
   - [Exam simulator prompt](https://github.com/behu-kea/generative-ai-usage/blob/main/prompts/exam-simulator.txt)
 
